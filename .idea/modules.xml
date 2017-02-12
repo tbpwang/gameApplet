@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gameApplet.iml" filepath="$PROJECT_DIR$/.idea/modules/gameApplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gameApplet_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gameApplet_main.iml" group="gameApplet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gameApplet_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gameApplet_test.iml" group="gameApplet" />
+    </modules>
+  </component>
+</project>
